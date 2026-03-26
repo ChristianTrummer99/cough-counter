@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Model (downloaded at runtime)
+yamnet.tflite
+
+# Database
+sessions.db
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Claude
+.claude/

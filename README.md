@@ -50,7 +50,3 @@ Detection parameters can be adjusted in `audio_classifier.py`:
 |---|---|---|
 | `COUGH_SCORE_THRESHOLD` | `0.35` | Minimum confidence score to count a cough |
 | `DEBOUNCE_SECONDS` | `1.5` | Cooldown between detections to avoid double-counting |
-
-## License
-
-MIT
